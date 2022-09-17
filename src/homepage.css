@@ -14,7 +14,11 @@
 .scan:hover{
     transform: scale(1.2);
 }
-
+.or{
+    position: relative;
+    left: 49%;
+    margin: 10px;
+}
 .qr{
     height: 200px;
     width: 200px;

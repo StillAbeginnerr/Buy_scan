@@ -11,7 +11,8 @@ function Homepage() {
     <>
     <h2 className='title'> Scan And Pay</h2>
 <img className='qr' src={qr} alt=''></img>
-    <a href='https://rzp.io/l/XYr6bwyR'><button className='scan'>scan to pay</button></a>
+<h4 className='or'>Or</h4>
+    <a href='https://rzp.io/l/XYr6bwyR'><button className='scan'>click to pay</button></a>
    
     </>
   )
