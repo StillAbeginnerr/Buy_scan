@@ -20,7 +20,6 @@
     position: absolute;
     top: 30%;
     left: 30%;
-    color: rgb(0, 64, 255);
 }
 .product-image{
     position: absolute;
@@ -69,31 +68,32 @@ mobile - css
 
     .scan{
         position: absolute;
-        left: 12.5%;
-top: 42%;
+        left: 35.5%;
+top: 43%;
     }
 
     .qr
     {
+        margin: 20px 0px;
         position: absolute;
         top: 51%;
-        left: 1%;
+        left: 25%;
     }
     .amount{
         position: absolute;
-        top: 24%;
-        left: 18%;
+        top: 30%;
+        left: 78%;
     }
 
     .product-image{
-        height: 80px;
-        width: 240px;
+        height: 140px;
+        width: 380px;
         position: absolute;
-        top: 16%;
-        left: 14%;
+        top: 14%;
+        left: 35%;
     }
     .pro-des{
-        font-size: 8px;
+        font-size: 10px;
         position: absolute;
         top: 30%;
         left: 2%;
@@ -102,13 +102,13 @@ top: 42%;
     .title{
         position: absolute;
         left: 5%;
-        font-size: 16px;
-top: 4%;
+        font-size: 26px;
+top: 1%;
     }
     .title-1{
         position: absolute;
         left: 5%;
-        font-size: 12px;
-        top: 10%;
+        font-size: 18px;
+        top: 7%;
     }
 }
