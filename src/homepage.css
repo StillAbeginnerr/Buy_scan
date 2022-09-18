@@ -56,3 +56,56 @@
     left: 45%;
     color: rgb(0, 0, 0);
 }
+
+
+/*
+mobile - css
+*/
+
+@media screen and (max-width:450px) {
+
+    .scan{
+        position: absolute;
+        left: 12.5%;
+top: 42%;
+    }
+
+    .qr
+    {
+        position: absolute;
+        top: 51%;
+        left: 1%;
+    }
+    .amount{
+        position: absolute;
+        top: 24%;
+        left: 18%;
+    }
+
+    .product-image{
+        height: 80px;
+        width: 240px;
+        position: absolute;
+        top: 16%;
+        left: 14%;
+    }
+    .pro-des{
+        font-size: 8px;
+        position: absolute;
+        top: 30%;
+        left: 2%;
+    }
+
+    .title{
+        position: absolute;
+        left: 5%;
+        font-size: 16px;
+top: 4%;
+    }
+    .title-1{
+        position: absolute;
+        left: 5%;
+        font-size: 12px;
+        top: 10%;
+    }
+}
